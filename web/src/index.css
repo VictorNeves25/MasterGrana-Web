@@ -463,7 +463,7 @@ a {
 
 .barra-entrada input:focus {
   border-color: var(--verde);
-  background: white;
+  background: var(--papel);
 }
 
 .barra-entrada button {

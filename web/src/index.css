@@ -178,7 +178,7 @@ a {
 
 .form-auth input:focus {
   border-color: var(--verde);
-  background: white;
+  background: var(--papel);
 }
 
 .botao-principal {
